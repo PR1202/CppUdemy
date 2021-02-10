@@ -155,6 +155,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CppUdemy.cpp" />
+    <ClCompile Include="Section5\MyFirstProgram.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Section5\MyFirstProgram.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

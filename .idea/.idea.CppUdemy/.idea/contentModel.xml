@@ -7,6 +7,10 @@
       <e p="CppUdemy" t="IncludeRecursive">
         <e p="CppUdemy.cpp" t="Include" />
         <e p="CppUdemy.vcxproj" t="IncludeRecursive" />
+        <e p="Section5" t="Include">
+          <e p="MyFirstProgram.cpp" t="Include" />
+          <e p="MyFirstProgram.h" t="Include" />
+        </e>
         <e p="x64\Debug" t="ExcludeRecursive" />
       </e>
       <e p="CppUdemy.sln" t="IncludeFlat" />
