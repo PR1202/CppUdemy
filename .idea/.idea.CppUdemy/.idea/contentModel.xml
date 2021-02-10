@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\paulo\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\paulo\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_CppUdemy.-339959727.00" t="ExcludeRecursive" />
+    <e p="C:\Users\paulo\Documents\Udemy\Cpp\CppUdemy" t="IncludeFlat">
+      <e p="CppUdemy" t="IncludeRecursive">
+        <e p="CppUdemy.cpp" t="Include" />
+        <e p="CppUdemy.vcxproj" t="IncludeRecursive" />
+        <e p="x64\Debug" t="ExcludeRecursive" />
+      </e>
+      <e p="CppUdemy.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="x64\Debug" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
